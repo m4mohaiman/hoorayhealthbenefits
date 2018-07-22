@@ -1,0 +1,29 @@
+.logo {
+    height: 100px;
+    width: 100%;
+  }
+
+  li.header-get-a-quote {
+    margin-top: 17px;
+}
+
+.lead-span{
+    font-size: 15px !important;
+    font-style: normal;
+}
+
+.footer-logo img{
+    width: 200px;
+}
+
+.pro-button {
+    margin-top: 70px;
+}
+
+.disclamiler-text {
+    padding: 50px 0;
+}
+
+.disclamiler-text p {
+    text-align: justify;
+}
